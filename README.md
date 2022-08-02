@@ -20,13 +20,12 @@ To get a local copy up and running follow these simple example steps:
 
 ## Author
 👤 - Github: [masuduzzaman](https://github.com/Masuduzzaman811)
- - Github: [ecekpo](https://github.com/ecekpo)
+👤 - Github: [ecekpo](https://github.com/ecekpo)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
- - Github: [masuduzzaman](https://github.com/Masuduzzaman811/issues)
 
-Feel free to check [issue page]().
+Feel free to check [issue page](https://github.com/Masuduzzaman811/AwesomeBooks/issues).
 
 ## Show your support
 Give a ⭐ if you like this project!

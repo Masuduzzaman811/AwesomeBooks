@@ -1,9 +1,5 @@
 const books = [
-  {
-    id: 1,
-    title: 'The Power of your subconscious mind',
-    author: 'Joseph Morphy',
-  },
+  {},
 ];
 
 const bookListSection = document.querySelector('#book-list');
